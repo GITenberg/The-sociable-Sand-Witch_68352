@@ -1,0 +1,36 @@
+_repo: The-sociable-Sand-Witch_68352
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sappington, Thomas Lambert
+    alias: Sappington, T. L.
+    birthdate: 1870
+    gutenberg_agent_id: '54737'
+    url: http://www.gutenberg.org/2009/agents/54737
+description: ''
+gutenberg_issued: '2022-06-20'
+identifiers:
+  gutenberg: '68352'
+  lccn: '23010120'
+language: en
+pgterms:marc904: https://archive.org/details/sociablesandwitc00sapp/page/n7/mode/2up
+pgterms:marc905: 20211024232348sappington
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Charlene Taylor, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive).
+publication_note: United States :Barse & Hopkins,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: The sociable Sand Witch -- The Fountain of Riches -- Obstinate Town
+  -- Toobad the Tailor -- The Snooping-Bug -- The wrong Jack -- The Second Story Brothers
+  -- The imaginary island -- The Dancing Pearl -- The Inherited Princess.
+title: The sociable Sand Witch
+url: http://www.gutenberg.org/ebooks/68352
